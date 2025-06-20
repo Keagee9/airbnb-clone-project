@@ -1,6 +1,3 @@
-# airbnb-clone-project
-
-
 UI/UX Design Planning
 Our approach to UI/UX design focuses on creating an intuitive, visually appealing, and highly functional experience for users interacting with our AirBnB clone. We aim to translate the core functionalities of a leading accommodation booking platform into a seamless and enjoyable interface.
 
@@ -63,6 +60,79 @@ Primary Font: Circular, Medium (500), 16px
 Headings: Circular, Bold (700), 24px-32px
 
 Secondary Text: Circular, Book (400), 14px
+
+UI Component Patterns
+Planned Components
+Navbar
+
+Logo
+
+Search bar
+
+User navigation
+
+Responsive menu
+
+Property Card
+
+Property image
+
+Basic details (price, location, rating)
+
+Favorite button
+
+Responsive layout
+
+Footer
+
+Site links
+
+Company information
+
+Social media links
+
+Copyright information
+
+Each component will be designed for reusability and consistency across the application, adhering strictly to the defined Figma design specifications. This modular approach will streamline development and ensure a unified user experience.
+
+Project Roles and Responsibilities
+A well-defined team structure is crucial for the efficient execution and successful delivery of this project. Each role carries specific responsibilities that contribute to the overall development lifecycle:
+
+Role
+
+Responsibilities
+
+Project Manager
+
+Oversees timeline, coordinates team, manages deliverables, and ensures project goals are met.
+
+Frontend Developers
+
+Implements UI components, integrates with backend APIs, ensures responsive design, and maintains frontend performance.
+
+Backend Developers
+
+Builds robust APIs, manages database interactions, implements business logic, and ensures server-side security.
+
+Designers
+
+Creates mockups, maintains the design system, ensures user experience (UX) quality, and provides visual assets.
+
+QA/Testers
+
+Writes comprehensive test cases, performs unit and integration testing, identifies and reports bugs, and verifies fixes.
+
+DevOps Engineers
+
+Manages deployment processes, sets up and maintains CI/CD pipelines, and oversees server infrastructure.
+
+Product Owner
+
+Defines project requirements, prioritizes features based on business value, and acts as the voice of the stakeholder.
+
+Scrum Master
+
+Facilitates agile processes, removes impediments (blockers), organizes team meetings, and promotes team collaboration.
 
 Importance of Identifying Design Properties
 Identifying precise design properties like color styles, typography (font family, weight, size), spacing, and component specifications from a mockup design is absolutely crucial for several reasons:
